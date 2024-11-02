@@ -19,7 +19,7 @@ nutritionix_headers = {
     "Content-Type": "application/json"
 }
 
-exercise_text = input("Tell me which exercises you did: ")
+exercise_text = input("Tell me which exercise you did: ")
 
 parameters = {
     "query": exercise_text,
